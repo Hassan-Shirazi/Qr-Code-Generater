@@ -1,4 +1,4 @@
-# QR Code Generator  
+# QR Code Generator
 *A simple, lightweight tool for generating QR codes in the browser*
 
 [![Live Preview](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://hassan-shirazi.github.io/Qr-Code-Generater/)
